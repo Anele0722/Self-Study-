@@ -6,3 +6,5 @@ list = values.split(",")
 
 #convert the list 
 tuple = tuple(list)
+#Code added by Mpho 
+print(list)
